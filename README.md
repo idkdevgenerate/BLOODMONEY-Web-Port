@@ -19,9 +19,11 @@ This guide provides step-by-step instructions for modifying the game to run corr
 3.  **FFmpeg (Optional, for mobile audio):** For the mobile audio fix, you will need [FFmpeg](https://ffmpeg.org/download.html) installed and added to your system's PATH.
 
 
-### Part A: Required Project Modifications
+### Part A: Remove Unused Files
 
 Delete everything else except the `www` folder in the game files.
+
+Inside the `www` folder, you can delete the `package.json`.
 
 ### Part B: Mobile Audio Compatibility Fixes (Optional)
 
