@@ -39,7 +39,7 @@ This guide provides step-by-step instructions for modifying the game to run corr
 1. Delete everything else except the `www` folder in the game files.
 2. Inside the `www` folder, you can delete the `package.json`.
 
-### Part B: Mobile Audio Compatibility Fixes (Optional)
+### Part B: Mobile Audio Compatibility Fix (Optional)
 
 On mobile, the game tries to load `.m4a` audio files, but the project only contains `.ogg` files, causing a crash. So you have to create the `.m4a` audio files for maximum compatibility.
 
