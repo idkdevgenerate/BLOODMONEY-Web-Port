@@ -30,7 +30,7 @@ This guide provides step-by-step instructions for modifying the game to run corr
 ### Prerequisites
 
 1. **Get the Game Files:** [Download the original game from the creator's itch.io page](https://shroomychrist-studios.itch.io/bloodmoney) and extract the files.
-2. **Python (for running):** Having [Python](https://www.python.org/downloads/) installed and added to your system's PATH, to run the local game server.
+2. **Python (for running):** Having [Python](https://www.python.org/downloads/) installed and added to your system's PATH, to run the local web server.
 3. **FFmpeg (Optional, for mobile audio):** For the mobile audio fix, you will need [FFmpeg](https://ffmpeg.org/download.html) installed and added to your system's PATH.
 
 
