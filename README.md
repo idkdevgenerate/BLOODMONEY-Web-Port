@@ -1,6 +1,6 @@
 # BLOODMONEY - Web Port
 
-This is an **Unofficial Web Port** of the free RPG Maker MV horror game **BLOODONEY** by SHROOMYCRIST. This port allows the game to be played directly in a web browser without needing any downloads/installations.
+This is an **Unofficial Web Port** of the free RPG Maker MV horror game [**BLOODONEY by SHROOMYCRIST**](https://shroomychrist-studios.itch.io/bloodmoney). This port allows the game to be played directly in a web browser without needing any downloads/installations.
 
 ## How to play
 
